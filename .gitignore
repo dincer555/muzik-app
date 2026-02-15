@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+.buildozer/
+bin/
+playlists.json
+*.apk
+*.aab
+.venv/
+venv/
